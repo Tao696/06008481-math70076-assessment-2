@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# 06008481-math70076-assessment-2
+Analysis of Survival Data for Patients Undergoing Allogeneic Hematopoietic Cell Transplantation (HCT)
+
+>>>>>>> ddd3aeec3b20c988352b8c350f9ef4048388df7d
 # HCT Patient Survival Analysis Project Documentation
 
 ## Project Overview
@@ -25,3 +31,7 @@ The project structure is as follows:
 
 - **07-reports**  
   - Contains project reports and summary documents, including analysis results and reflections.  
+<<<<<<< HEAD
+=======
+
+>>>>>>> ddd3aeec3b20c988352b8c350f9ef4048388df7d
